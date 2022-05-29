@@ -1,6 +1,8 @@
 <b>A Full-Stack Software developer, committed to
 to digitize local businesses.</b>
 
+''All limitations are self-imposed."
+
 👋 Hi, I’m Zakaria a.k.a ZekoTheDev <br>
 👀 I’m interested in the Cloud & Containerization <br>
 🌱 I’m currently learning the MERN Stack & .NET Core <br>
