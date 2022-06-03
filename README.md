@@ -5,7 +5,7 @@
 
 👋 Hi, I’m Zakaria a.k.a ZekoTheDev <br>
 👀 I’m interested in the Cloud & Containerization <br>
-🌱 I’m currently learning the MERN Stack & .NET Core <br>
+🌱 I’m currently learning the MERN Stack & C# <br>
 🤝 Always open to collaborate on Open Source projects<br>
 📫 You can find my details on zerassan.com <br>
 
