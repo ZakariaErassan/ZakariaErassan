@@ -1,5 +1,5 @@
-<b>A Full-Stack Software developer, committed to
-to digitize local businesses.</b>
+<h1 align="center">Hi 👋, I'm Zakaria</h1>
+<h3 align="center">A passionate full-stack developer from the Netherlands</h3>
 
 ''All limitations are self-imposed."
 
