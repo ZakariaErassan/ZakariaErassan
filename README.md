@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A Passionate Full-Stack Developer from The Netherlands</h3>
 
+
 ''All limitations are self-imposed."
 
 👋 Hi, I’m Zakaria a.k.a ZekoTheDev <br>
