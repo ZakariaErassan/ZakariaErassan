@@ -8,7 +8,7 @@
 👀 I’m interested in the creating Software that people could use <br>
 🌱 I’m currently learning the MERN Stack<br>
 🤝 Always open to collaborate on Open Source projects<br>
-📫 You can find my details on zerassan.com <br>
+📫 You can find my details son zerassan.com <br>
 
 "Changing the world with one line of code a day"
 <h3 align="left">Connect with me:</h3>
